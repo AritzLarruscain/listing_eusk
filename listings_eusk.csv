@@ -1,0 +1,753 @@
+neighbourhood;room_type;price;minimum_nights;number_of_reviews;last_review;reviews_per_month;calculated_host_listings_count;availability_365;number_of_reviews_ltm
+Donostia-San Sebastian;Entire home/apt;176;2;709;45374;4.54;1;210;55
+Sukarrieta;Entire home/apt;150;2;71;45231;0.46;1;323;18
+Donostia-San Sebastian;Entire home/apt;225;3;15;45219;0.12;7;254;7
+Donostia-San Sebastian;Entire home/apt;180;7;13;45166;0.09;7;241;1
+Donostia-San Sebastian;Entire home/apt;246;7;32;43002;0.26;7;222;0
+Donostia-San Sebastian;Private room;350;3;91;45348;0.68;7;196;26
+Vitoria-Gasteiz;Entire home/apt;140;4;1;45151;0.13;2;124;1
+Bilbao;Private room;84;3;44;45375;0.56;1;258;7
+Oiartzun;Entire home/apt;800;2;11;45362;0.25;1;326;4
+Donostia-San Sebastian;Entire home/apt;226;2;286;45185;2.18;2;171;10
+Mutriku;Entire home/apt;73;2;90;45347;0.63;2;151;12
+Gorliz;Entire home/apt;90;3;57;45180;0.40;1;336;2
+Donostia-San Sebastian;Private room;101;2;48;45333;0.42;5;0;10
+Donostia-San Sebastian;Entire home/apt;160;2;57;45296;0.54;1;251;19
+Donostia-San Sebastian;Private room;56;2;76;45367;0.72;5;0;22
+Durango;Private room;142;2;81;45163;0.56;4;173;6
+Bilbao;Private room;95;2;64;43749;0.45;2;285;0
+Bilbao;Private room;75;2;34;43758;0.24;2;280;0
+Donostia-San Sebastian;Private room;65;2;26;45348;0.18;5;0;5
+AbadiÒo;Private room;62;2;59;45213;0.42;4;296;3
+AbadiÒo;Private room;103;2;41;45231;0.29;4;195;9
+Durango;Private room;66;2;133;45367;0.94;4;306;12
+Donostia-San Sebastian;Entire home/apt;185;2;43;45243;0.30;1;256;13
+Donostia-San Sebastian;Private room;65;2;473;45381;3.31;2;220;41
+Deba;Entire home/apt;116;4;18;45164;0.14;1;322;3
+Gatika;Entire home/apt;600;2;37;45263;0.26;1;229;3
+Donostia-San Sebastian;Entire home/apt;157;6;40;45135;0.30;1;58;4
+Donostia-San Sebastian;Entire home/apt;89;32;123;44898;0.88;3;206;0
+Amurrio;Entire home/apt;232;2;13;45333;0.10;1;277;5
+Arraia-Maeztu;Private room;25;2;265;45270;2.23;2;0;25
+Donostia-San Sebastian;Entire home/apt;83;29;101;45237;0.81;1;43;4
+Ispaster;Entire home/apt;97;2;329;45361;3.28;4;149;28
+Lekeitio;Entire home/apt;79;2;338;45382;2.43;4;198;31
+Bilbao;Private room;49;2;152;45207;1.17;3;56;19
+Bermeo;Entire home/apt;1000;1;0;;;2;363;0
+Donostia-San Sebastian;Entire home/apt;125;25;30;45260;0.22;1;220;1
+Bilbao;Entire home/apt;105;2;174;45367;1.38;1;131;11
+Donostia-San Sebastian;Entire home/apt;149;2;442;45381;3.29;1;113;50
+Donostia-San Sebastian;Entire home/apt;106;2;220;45381;1.68;1;275;33
+Donostia-San Sebastian;Entire home/apt;113;2;473;45375;3.62;1;247;24
+Vitoria-Gasteiz;Entire home/apt;63;2;491;45361;3.67;1;59;42
+Donostia-San Sebastian;Entire home/apt;96;2;489;45369;3.70;1;26;48
+Irun;Entire home/apt;209;2;16;42970;0.12;1;213;0
+Donostia-San Sebastian;Private room;65;1;599;45369;4.50;1;257;100
+Laukiz;Entire home/apt;180;3;9;45171;0.46;1;86;7
+Mutriku;Entire home/apt;215;7;26;44825;0.20;1;288;0
+Elantxobe;Entire home/apt;87;2;283;45295;2.14;1;295;29
+Donostia-San Sebastian;Private room;75;2;383;45258;2.92;2;227;35
+Donostia-San Sebastian;Entire home/apt;197;1;181;45382;1.38;1;297;11
+Bilbao;Private room;30;10;67;45350;0.62;3;126;6
+Donostia-San Sebastian;Entire home/apt;213;3;245;45214;1.91;3;243;21
+Donostia-San Sebastian;Entire home/apt;100;1;76;45124;0.58;6;184;2
+Deba;Entire home/apt;126;2;7;45180;0.16;3;258;5
+Gernika-Lumo;Entire home/apt;140;3;38;45165;0.29;1;348;4
+Bilbao;Entire home/apt;89;7;33;45165;0.28;1;28;5
+Bilbao;Private room;75;2;121;45291;3.87;1;76;38
+Bilbao;Entire home/apt;130;5;262;45357;2.05;1;258;19
+Donostia-San Sebastian;Entire home/apt;144;31;18;44774;0.14;1;238;0
+Donostia-San Sebastian;Private room;72;2;282;45356;2.16;1;60;40
+Getxo;Entire home/apt;200;5;5;44422;0.04;1;364;0
+Orio;Entire home/apt;148;2;203;45294;1.57;1;274;18
+Getaria;Entire home/apt;124;1;23;45312;0.38;1;108;2
+Vitoria-Gasteiz;Entire home/apt;97;2;80;45333;0.75;5;43;15
+Errenteria;Entire home/apt;70;3;90;45169;0.70;1;242;11
+Mutriku;Entire home/apt;107;2;157;45270;1.33;4;331;18
+Donostia-San Sebastian;Private room;70;3;21;45243;0.24;1;16;19
+Donostia-San Sebastian;Private room;90;2;337;45207;2.63;2;260;14
+Donostia-San Sebastian;Private room;100;3;52;44808;0.43;2;364;0
+Donostia-San Sebastian;Private room;100;3;59;44843;0.50;2;364;0
+Donostia-San Sebastian;Entire home/apt;228;2;148;45292;1.39;1;263;24
+Bilbao;Private room;38;2;98;45373;0.80;2;141;17
+Getxo;Entire home/apt;81;3;167;45250;1.32;1;89;19
+Ea;Entire home/apt;237;2;33;45192;0.31;10;305;7
+Ea;Entire home/apt;218;2;9;44444;0.09;10;334;0
+Ea;Entire home/apt;471;2;20;45137;0.17;10;308;1
+Ea;Entire home/apt;352;2;9;44032;0.08;10;296;0
+Donostia-San Sebastian;Entire home/apt;236;3;115;45293;0.95;1;265;7
+Donostia-San Sebastian;Entire home/apt;150;5;289;44802;2.29;1;182;0
+Donostia-San Sebastian;Private room;91;2;253;45213;2.00;2;288;4
+Trucios-Turtzioz;Entire home/apt;341;2;5;44739;0.15;3;228;0
+Hondarribia;Private room;54;2;155;45189;1.66;1;42;17
+Bilbao;Private room;45;1;745;45306;6.35;2;342;63
+Bilbao;Entire home/apt;82;2;473;45376;3.79;1;118;77
+Donostia-San Sebastian;Entire home/apt;85;3;271;45214;2.17;2;207;18
+Ea;Entire home/apt;120;2;1;45117;0.11;1;216;1
+Mutriku;Entire home/apt;100;2;19;45165;0.16;1;197;5
+Donostia-San Sebastian;Entire home/apt;85;3;236;45247;1.89;2;218;21
+Donostia-San Sebastian;Entire home/apt;280;3;86;45167;0.73;1;173;8
+Orozko;Entire home/apt;440;2;30;45235;0.29;1;212;6
+Gizaburuaga;Entire home/apt;47;3;67;45226;0.55;2;117;11
+Oiartzun;Entire home/apt;221;2;14;45296;0.12;1;209;5
+Bilbao;Private room;24;1;763;44075;6.49;2;58;0
+Donostia-San Sebastian;Entire home/apt;100;14;3;45158;0.29;2;221;3
+Bilbao;Shared room;19;1;109;45219;0.88;23;116;4
+Mutriku;Private room;62;1;92;45293;0.75;2;326;5
+Donostia-San Sebastian;Entire home/apt;131;2;447;45382;3.69;1;128;50
+Vitoria-Gasteiz;Entire home/apt;71;2;170;45293;1.44;2;83;10
+Bilbao;Entire home/apt;165;4;74;45162;0.63;3;228;4
+Errenteria;Private room;45;2;61;43779;0.51;1;358;0
+Bilbao;Private room;80;1;24;44669;0.20;23;116;0
+Bilbao;Private room;130;1;35;45225;0.31;23;128;7
+Bilbao;Shared room;19;1;96;45372;0.81;23;116;9
+Donostia-San Sebastian;Entire home/apt;259;2;23;45292;1.09;1;239;9
+Lekeitio;Entire home/apt;75;2;110;45234;1.25;1;127;17
+Artzentales;Entire home/apt;450;2;17;45129;0.18;1;322;3
+Donostia-San Sebastian;Entire home/apt;130;7;104;45291;1.00;1;251;20
+Donostia-San Sebastian;Entire home/apt;203;2;109;45381;0.90;1;72;5
+Bilbao;Entire home/apt;543;1;13;43751;0.14;23;89;0
+Mutriku;Private room;66;2;296;45334;2.49;4;334;33
+Getaria;Entire home/apt;54;1;52;45027;0.44;16;216;1
+Donostia-San Sebastian;Entire home/apt;375;1;75;45199;0.62;1;89;15
+Bilbao;Entire home/apt;183;3;95;45374;0.79;1;324;9
+Donostia-San Sebastian;Entire home/apt;115;2;351;45368;2.89;4;143;27
+Donostia-San Sebastian;Entire home/apt;111;2;10;45350;0.08;4;342;6
+Azpeitia;Entire home/apt;120;2;284;45375;2.38;1;79;27
+Mutriku;Entire home/apt;106;2;168;45380;1.42;1;299;23
+EreÒo;Entire home/apt;83;2;135;45377;1.13;1;297;10
+Donostia-San Sebastian;Private room;99;2;23;45146;0.19;5;219;2
+Gorliz;Entire home/apt;160;2;72;45184;1.19;2;111;15
+Donostia-San Sebastian;Entire home/apt;190;4;37;45157;0.32;1;89;3
+Portugalete;Entire home/apt;151;2;79;45270;0.66;1;149;6
+Getaria;Entire home/apt;750;3;64;45281;0.59;1;276;12
+Donostia-San Sebastian;Entire home/apt;173;2;0;;;4;325;0
+Vitoria-Gasteiz;Private room;55;1;130;45362;1.10;3;344;24
+Vitoria-Gasteiz;Private room;65;1;111;45153;0.94;3;347;3
+Bilbao;Private room;93;2;441;45365;3.79;2;20;34
+Ondarroa;Entire home/apt;87;7;7;45170;0.21;1;288;2
+Bakio;Entire home/apt;100;2;135;45163;1.14;1;199;6
+Donostia-San Sebastian;Entire home/apt;188;1;17;45195;0.17;87;245;1
+Donostia-San Sebastian;Entire home/apt;150;1;94;45368;0.90;87;217;11
+Donostia-San Sebastian;Private room;77;1;528;45377;4.46;4;213;44
+Donostia-San Sebastian;Entire home/apt;135;1;133;45233;1.25;87;180;8
+Donostia-San Sebastian;Entire home/apt;250;1;58;45256;0.51;87;220;3
+Donostia-San Sebastian;Entire home/apt;200;1;102;45165;0.94;87;263;3
+Donostia-San Sebastian;Entire home/apt;100;3;112;45200;0.94;1;54;16
+Donostia-San Sebastian;Entire home/apt;188;1;1;44445;0.03;87;265;0
+Donostia-San Sebastian;Entire home/apt;124;1;51;45312;0.56;87;186;15
+Donostia-San Sebastian;Entire home/apt;135;1;52;45194;0.49;87;228;8
+Alonsotegi;Private room;71;15;96;45221;1.14;4;356;4
+Donostia-San Sebastian;Entire home/apt;124;1;40;45194;0.39;87;277;6
+Donostia-San Sebastian;Entire home/apt;220;2;223;45270;1.88;2;314;25
+Bilbao;Entire home/apt;130;1;140;45382;1.18;1;200;24
+Donostia-San Sebastian;Entire home/apt;130;32;6;45115;0.05;1;265;1
+Irun;Entire home/apt;529;2;56;45148;0.48;1;350;4
+Donostia-San Sebastian;Entire home/apt;188;1;49;45214;0.42;87;229;6
+Getxo;Entire home/apt;649;2;32;45106;0.27;2;88;2
+Vitoria-Gasteiz;Private room;55;1;64;45186;0.60;3;347;3
+Bilbao;Private room;29;1;736;44076;6.21;2;58;0
+Bilbao;Entire home/apt;111;2;655;45379;5.53;1;96;93
+Bilbao;Entire home/apt;113;2;328;45375;2.79;1;136;29
+Getxo;Entire home/apt;95;3;42;45234;0.36;2;190;16
+Bilbao;Entire home/apt;116;3;372;45355;3.23;1;226;19
+Getxo;Entire home/apt;101;3;25;45375;0.21;2;286;3
+Donostia-San Sebastian;Entire home/apt;245;3;21;45088;0.18;1;359;1
+Zarautz;Entire home/apt;368;3;31;45243;0.30;1;266;4
+Bilbao;Private room;43;1;920;45361;7.82;2;329;74
+Sondika;Private room;137;2;54;45128;0.46;8;356;1
+Sondika;Private room;94;2;56;43692;0.49;8;365;0
+Sondika;Private room;94;2;37;44822;0.32;8;365;0
+Sondika;Private room;105;2;78;44414;0.69;8;363;0
+Sondika;Private room;101;2;54;44830;0.49;8;365;0
+Sondika;Private room;129;2;28;45141;0.30;8;363;1
+Bilbao;Entire home/apt;101;2;604;45379;5.15;1;138;29
+Vitoria-Gasteiz;Entire home/apt;82;2;163;45313;1.39;2;112;16
+Donostia-San Sebastian;Entire home/apt;425;1;79;45277;0.72;87;172;8
+Bilbao;Private room;30;1;314;45290;2.69;1;294;30
+Vitoria-Gasteiz;Private room;79;1;6;45152;0.09;4;135;2
+Sukarrieta;Entire home/apt;106;7;12;45142;0.11;1;354;1
+Atxondo;Entire home/apt;233;2;19;45139;0.18;1;357;2
+Santurtzi;Entire home/apt;84;1;81;45382;6.71;1;255;81
+Donostia-San Sebastian;Entire home/apt;262;2;166;45376;1.59;1;273;32
+Donostia-San Sebastian;Private room;65;3;78;45161;0.67;3;183;7
+Sopuerta;Entire home/apt;515;2;5;45333;0.07;1;245;2
+Donostia-San Sebastian;Private room;45;6;93;45156;0.80;3;181;10
+Ormaiztegi;Private room;48;1;43;45374;0.40;4;214;2
+Ormaiztegi;Private room;29;1;29;45119;0.26;4;111;1
+Donostia-San Sebastian;Private room;50;3;115;45161;0.99;3;181;8
+Lanciego;Entire home/apt;680;5;2;44017;0.02;2;158;0
+Lanciego;Entire home/apt;679;2;46;45292;0.40;2;330;7
+Donostia-San Sebastian;Private room;59;2;270;45269;2.57;2;260;43
+Oiartzun;Entire home/apt;250;2;103;45287;1.02;1;264;22
+Donostia-San Sebastian;Entire home/apt;131;2;504;45369;4.35;2;187;41
+Vitoria-Gasteiz;Entire home/apt;132;4;110;45164;0.97;2;45;4
+Eskoriatza;Hotel room;115;1;10;45313;0.09;6;323;1
+AbadiÒo;Entire home/apt;291;3;22;45289;0.27;1;283;9
+Arrazua-Ubarrundia;Entire home/apt;160;2;134;45370;1.16;1;159;16
+Donostia-San Sebastian;Entire home/apt;188;1;61;45199;0.56;87;250;9
+Zumaia;Private room;54;2;251;45340;2.20;1;273;18
+Hondarribia;Entire home/apt;261;2;97;45292;0.89;1;96;8
+Busturia;Entire home/apt;100;7;17;45157;0.18;2;207;1
+Vitoria-Gasteiz;Entire home/apt;98;2;59;45207;0.52;1;253;3
+Bilbao;Entire home/apt;131;2;502;45377;4.38;2;108;41
+Plentzia;Private room;135;3;92;45206;0.87;3;323;14
+Vitoria-Gasteiz;Private room;32;1;303;45380;2.64;2;305;77
+Zarautz;Entire home/apt;222;1;58;45267;0.51;16;229;7
+Irun;Entire home/apt;150;2;48;43467;0.45;3;364;0
+Zarautz;Entire home/apt;343;5;28;45227;0.34;1;245;7
+Donostia-San Sebastian;Entire home/apt;103;3;123;45293;1.09;1;77;10
+Sopelana;Entire home/apt;53;2;240;45245;2.63;1;251;26
+Zigoitia;Entire home/apt;148;6;46;45375;0.42;3;134;6
+Bilbao;Entire home/apt;104;1;609;45365;5.37;1;65;57
+Donostia-San Sebastian;Private room;56;2;221;45235;2.10;2;296;45
+Donostia-San Sebastian;Entire home/apt;690;3;55;45158;0.81;2;42;8
+Bedia;Entire home/apt;89;7;0;;;1;114;0
+Donostia-San Sebastian;Private room;110;3;113;45195;1.06;5;166;11
+Eskoriatza;Hotel room;175;1;2;43318;0.03;6;342;0
+Gatika;Entire home/apt;69;5;140;45374;1.32;1;251;17
+Gizaburuaga;Entire home/apt;144;3;10;45153;0.11;2;238;4
+Donostia-San Sebastian;Entire home/apt;190;3;164;45287;1.80;1;197;23
+Bilbao;Private room;76;2;443;45381;4.03;1;250;61
+Donostia-San Sebastian;Entire home/apt;147;2;369;45378;3.36;2;23;11
+Donostia-San Sebastian;Entire home/apt;169;2;307;45369;2.81;2;141;52
+Alkiza;Entire home/apt;140;3;26;45186;0.46;1;83;11
+Donostia-San Sebastian;Entire home/apt;180;4;110;45242;1.04;2;95;21
+Donostia-San Sebastian;Entire home/apt;173;1;299;45332;2.71;4;109;19
+Donostia-San Sebastian;Entire home/apt;161;1;173;45368;1.60;14;354;4
+Donostia-San Sebastian;Entire home/apt;202;1;166;45215;1.52;14;352;4
+Donostia-San Sebastian;Private room;100;3;84;45133;0.80;5;138;8
+Donostia-San Sebastian;Private room;55;3;83;45168;0.78;5;161;8
+Donostia-San Sebastian;Entire home/apt;286;1;1162;45375;10.60;12;294;100
+Oy√É¬≥n;Entire home/apt;250;1;125;45319;1.19;1;287;12
+Getaria;Entire home/apt;720;1;53;45372;0.50;16;291;15
+Donostia-San Sebastian;Entire home/apt;113;1;44;45207;0.42;31;296;1
+Bilbao;Entire home/apt;93;7;99;43831;0.93;1;337;0
+Orio;Entire home/apt;150;1;14;44070;0.13;14;348;0
+Donostia-San Sebastian;Entire home/apt;138;1;28;45143;0.27;14;353;3
+Artea;Entire home/apt;88;1;88;45250;0.82;2;325;13
+Labastida;Private room;90;2;0;;;1;364;0
+Donostia-San Sebastian;Entire home/apt;233;1;426;45354;3.97;1;283;38
+Otxandio;Entire home/apt;267;4;27;45152;0.25;1;162;2
+Donostia-San Sebastian;Entire home/apt;158;2;256;45111;2.34;1;126;4
+Hondarribia;Entire home/apt;128;2;53;45242;0.63;2;199;11
+Mundaka;Entire home/apt;104;1;84;45203;0.78;9;152;7
+Donostia-San Sebastian;Private room;85;1;406;45256;3.82;2;287;50
+Donostia-San Sebastian;Private room;81;2;457;45379;4.30;1;56;54
+Donostia-San Sebastian;Entire home/apt;175;1;176;45280;1.63;87;38;21
+Donostia-San Sebastian;Private room;70;3;210;45089;1.97;2;90;2
+Orio;Entire home/apt;106;2;207;45378;1.91;1;202;31
+Donostia-San Sebastian;Entire home/apt;200;1;57;45118;0.54;87;257;2
+Donostia-San Sebastian;Entire home/apt;130;5;35;45189;0.62;1;168;7
+Zumaia;Entire home/apt;450;4;9;45161;0.11;1;347;3
+Donostia-San Sebastian;Entire home/apt;162;2;325;45379;3.05;1;210;54
+Donostia-San Sebastian;Entire home/apt;160;2;139;45242;1.29;1;335;22
+Bilbao;Private room;60;1;512;45375;4.77;1;125;107
+Zumaia;Entire home/apt;101;2;200;45379;1.86;1;162;10
+Bilbao;Hotel room;97;1;74;45363;0.73;4;292;13
+Bilbao;Hotel room;127;1;15;44974;0.14;4;264;0
+Bilbao;Hotel room;157;1;3;44366;0.03;4;225;0
+Bilbao;Hotel room;121;1;1;43462;0.02;4;275;0
+Donostia-San Sebastian;Entire home/apt;348;3;96;45290;0.91;1;251;20
+Lekeitio;Entire home/apt;75;1;220;45370;2.07;1;293;30
+Donostia-San Sebastian;Entire home/apt;150;7;6;42972;0.06;7;261;0
+Zigoitia;Entire home/apt;148;2;61;45288;0.59;3;200;12
+Mundaka;Entire home/apt;103;2;65;45124;0.61;1;319;1
+Donostia-San Sebastian;Entire home/apt;182;1;20;44724;0.19;10;232;0
+Donostia-San Sebastian;Entire home/apt;769;2;147;45361;1.46;1;293;36
+Donostia-San Sebastian;Entire home/apt;325;1;104;45334;1.00;87;205;13
+Donostia-San Sebastian;Entire home/apt;108;2;272;45380;2.54;1;127;47
+Bilbao;Entire home/apt;119;2;515;45371;4.88;3;263;17
+Donostia-San Sebastian;Entire home/apt;144;1;298;45380;2.81;1;157;52
+Donostia-San Sebastian;Private room;85;2;120;45349;1.13;1;112;24
+Donostia-San Sebastian;Private room;56;1;447;45367;4.34;4;283;54
+Donostia-San Sebastian;Private room;71;1;613;45371;5.77;4;201;76
+Hondarribia;Entire home/apt;136;2;303;45361;2.87;1;31;42
+Segura;Entire home/apt;170;2;55;45293;0.66;1;302;12
+Hondarribia;Private room;80;2;19;44802;0.34;1;89;0
+Donostia-San Sebastian;Entire home/apt;139;1;706;45380;6.66;1;225;92
+Donostia-San Sebastian;Entire home/apt;247;1;15;45157;0.14;10;252;2
+Donostia-San Sebastian;Private room;80;4;194;45176;1.83;2;89;5
+Donostia-San Sebastian;Private room;80;1;51;43604;0.48;4;0;0
+Donostia-San Sebastian;Private room;150;1;112;43476;1.05;4;0;0
+Donostia-San Sebastian;Private room;70;1;53;43690;0.50;4;0;0
+Donostia-San Sebastian;Entire home/apt;463;28;5;45200;0.05;4;126;2
+Sukarrieta;Entire home/apt;160;2;107;45361;1.34;1;170;9
+Ormaiztegi;Private room;49;1;28;45150;0.26;4;216;1
+Zarautz;Entire home/apt;116;1;398;45382;3.75;1;68;46
+Donostia-San Sebastian;Private room;120;2;278;45361;2.62;1;257;45
+Getxo;Entire home/apt;76;1;488;45373;4.60;1;210;86
+Bilbao;Private room;50;1;17;45176;0.17;1;279;8
+Sopelana;Entire home/apt;129;3;120;45340;1.14;1;243;27
+Erandio;Entire home/apt;90;2;101;44073;0.96;1;108;0
+Donostia-San Sebastian;Entire home/apt;72;2;230;45371;2.45;1;225;42
+Donostia-San Sebastian;Entire home/apt;164;2;267;45375;2.57;1;126;36
+Mundaka;Entire home/apt;95;1;30;45351;0.36;9;150;5
+Mundaka;Entire home/apt;102;1;86;45373;0.85;9;147;10
+Donostia-San Sebastian;Entire home/apt;166;4;76;45256;0.72;1;197;29
+Sukarrieta;Entire home/apt;125;2;60;45192;0.57;1;325;10
+Moreda de √É¬Ålava;Entire home/apt;183;2;80;45368;0.76;1;332;8
+Donostia-San Sebastian;Entire home/apt;137;1;1;44774;0.05;4;342;0
+Sopelana;Entire home/apt;240;3;59;45151;0.56;1;345;6
+Vitoria-Gasteiz;Entire home/apt;116;1;375;45381;3.57;1;240;75
+Donostia-San Sebastian;Entire home/apt;150;1;42;45206;0.44;87;228;8
+Donostia-San Sebastian;Entire home/apt;162;1;8;44025;0.08;10;249;0
+Asteasu;Entire home/apt;127;4;69;45165;0.66;1;87;8
+Barrika;Private room;83;7;10;45157;0.49;2;90;2
+Donostia-San Sebastian;Private room;72;2;334;45362;3.17;2;134;38
+Donostia-San Sebastian;Entire home/apt;300;3;10;43708;0.12;2;89;0
+Donostia-San Sebastian;Private room;80;2;331;45354;3.15;2;85;40
+Donostia-San Sebastian;Entire home/apt;130;2;244;45243;2.34;1;335;25
+Bilbao;Entire home/apt;133;1;240;45326;2.29;5;287;16
+Getxo;Entire home/apt;196;3;159;45373;1.53;1;225;13
+Bilbao;Private room;65;1;264;45379;2.52;2;10;29
+Valdegov√É¬≠a;Entire home/apt;67;3;91;45382;0.88;1;256;13
+Donostia-San Sebastian;Private room;125;2;134;45222;1.29;1;316;23
+Mundaka;Entire home/apt;123;2;46;45113;0.63;1;168;6
+Donostia-San Sebastian;Entire home/apt;127;2;151;45347;1.76;2;362;29
+Donostia-San Sebastian;Entire home/apt;163;2;272;45346;2.62;1;269;22
+Donostia-San Sebastian;Entire home/apt;190;31;15;44783;0.16;7;221;0
+Donostia-San Sebastian;Entire home/apt;203;1;79;45228;0.76;87;206;8
+Vitoria-Gasteiz;Private room;146;1;8;45158;0.08;3;89;2
+Bilbao;Private room;64;1;294;45378;2.84;2;13;46
+Bilbao;Private room;39;2;136;45366;1.31;2;105;20
+Orio;Entire home/apt;150;1;26;45242;0.26;14;345;10
+Vitoria-Gasteiz;Private room;104;22;0;;;3;270;0
+Legutiano;Entire home/apt;90;4;50;45214;0.53;1;336;8
+Vitoria-Gasteiz;Private room;41;1;1;43023;0.01;3;36;0
+Pasaia;Private room;160;1;119;45157;1.24;2;118;10
+Vitoria-Gasteiz;Private room;135;1;6;45025;0.06;6;89;1
+Vitoria-Gasteiz;Private room;68;1;7;45351;0.07;6;85;1
+Durango;Entire home/apt;900;2;14;45286;0.14;1;345;3
+Laguardia;Entire home/apt;62;2;56;43892;0.56;1;9;0
+Plentzia;Entire home/apt;100;6;0;;;1;115;0
+Zarautz;Entire home/apt;140;3;65;45194;0.64;1;102;5
+Aretxabaleta;Entire home/apt;733;2;11;45293;0.16;7;275;4
+Donostia-San Sebastian;Entire home/apt;218;1;87;45312;0.87;1;313;4
+Donostia-San Sebastian;Entire home/apt;297;1;124;45374;1.33;1;307;24
+Bakio;Entire home/apt;83;4;53;45211;0.62;1;203;4
+Donostia-San Sebastian;Entire home/apt;160;30;195;44800;1.90;8;365;0
+Donostia-San Sebastian;Entire home/apt;124;2;264;45368;2.61;1;336;20
+Donostia-San Sebastian;Entire home/apt;92;2;66;45187;0.65;23;354;8
+Laukiz;Private room;500;1;1;42559;0.01;13;365;0
+Laukiz;Private room;164;2;1;42560;0.01;13;89;0
+Laukiz;Private room;200;1;2;43343;0.02;13;90;0
+Donostia-San Sebastian;Entire home/apt;216;2;374;45377;3.74;2;45;55
+Asparrena;Private room;333;2;8;45095;0.09;5;277;1
+Bilbao;Private room;46;1;487;45380;4.76;1;28;110
+Irun;Entire home/apt;73;2;424;45347;4.19;1;266;32
+Getaria;Entire home/apt;84;2;116;45295;1.19;1;299;9
+Donostia-San Sebastian;Entire home/apt;167;1;65;45249;0.74;4;254;9
+Donostia-San Sebastian;Entire home/apt;202;1;16;45070;0.23;4;186;1
+Donostia-San Sebastian;Entire home/apt;162;1;32;45300;0.46;11;193;6
+Barakaldo;Private room;90;1;37;45373;0.37;1;356;5
+Donostia-San Sebastian;Entire home/apt;73;2;348;45368;3.57;1;335;40
+Donostia-San Sebastian;Private room;55;2;300;45376;3.00;1;295;36
+Elburgo;Private room;55;1;4;42813;0.04;1;0;0
+Mungai;Entire home/apt;95;1;376;45378;4.05;1;313;72
+Berriatua;Entire home/apt;100;2;148;45234;1.52;1;0;14
+Alegr√É¬≠a-Dulantzi;Entire home/apt;200;2;33;44791;0.35;1;266;0
+Donostia-San Sebastian;Entire home/apt;178;31;264;45262;2.63;2;139;2
+Donostia-San Sebastian;Entire home/apt;165;31;225;44565;2.24;2;113;0
+Donostia-San Sebastian;Private room;95;3;90;45196;0.94;5;162;15
+Donostia-San Sebastian;Entire home/apt;416;1;14;45223;0.20;11;12;7
+Donostia-San Sebastian;Private room;95;3;100;45189;1.03;5;161;11
+Barakaldo;Private room;75;2;183;44865;1.87;1;0;0
+Lekeitio;Entire home/apt;79;2;33;45179;0.34;1;89;12
+Donostia-San Sebastian;Entire home/apt;109;2;136;45356;1.41;1;109;11
+Donostia-San Sebastian;Entire home/apt;246;2;134;45372;1.38;1;266;19
+Donostia-San Sebastian;Entire home/apt;186;1;13;45207;0.22;10;264;2
+Oiartzun;Shared room;25;1;68;45156;0.70;5;153;6
+Bilbao;Private room;48;2;162;45375;1.66;1;324;28
+Zeanuri;Entire home/apt;273;2;36;45214;0.37;1;138;8
+Lekeitio;Entire home/apt;99;1;107;45373;1.08;1;295;17
+Bakio;Private room;60;1;362;45366;3.69;1;32;45
+Zarautz;Entire home/apt;113;1;25;45128;0.27;2;262;2
+Zarautz;Entire home/apt;113;1;20;45200;0.21;2;252;2
+Bilbao;Entire home/apt;154;2;162;45369;1.62;1;244;25
+Mundaka;Entire home/apt;130;2;3;45145;0.04;3;1;1
+Donostia-San Sebastian;Entire home/apt;294;3;62;45205;0.64;1;119;12
+Karrantza Harana;Entire home/apt;70;2;71;45235;0.73;1;0;9
+Aia;Entire home/apt;425;2;112;45292;1.15;1;324;9
+Bilbao;Private room;37;2;289;45373;2.94;1;138;52
+Donostia-San Sebastian;Entire home/apt;288;1;241;45027;2.47;1;0;1
+Eskuernaga;Entire home/apt;225;2;10;44864;0.10;1;365;0
+Laguardia;Entire home/apt;440;2;19;44892;0.20;1;331;0
+Donostia-San Sebastian;Entire home/apt;227;3;36;45382;0.37;1;99;6
+Bilbao;Entire home/apt;171;1;383;45373;3.91;1;159;56
+Donostia-San Sebastian;Entire home/apt;190;2;212;45347;2.16;1;113;31
+Bilbao;Private room;140;4;123;45173;1.27;2;136;8
+Orio;Entire home/apt;150;2;151;45194;1.55;1;189;15
+Getxo;Entire home/apt;142;2;47;45376;0.48;1;29;3
+Mundaka;Entire home/apt;81;2;228;45338;2.37;1;32;32
+Ibarrangelu;Private room;117;1;7;44774;0.09;6;176;0
+Donostia-San Sebastian;Entire home/apt;144;2;82;45351;0.84;23;319;9
+Ibarrangelu;Private room;158;1;0;;;6;142;0
+Aia;Entire home/apt;150;2;184;45294;1.89;2;260;13
+Eskoriatza;Private room;64;2;15;45156;0.17;1;358;3
+Donostia-San Sebastian;Private room;85;1;330;45368;3.38;2;315;46
+Mundaka;Entire home/apt;71;1;221;45375;2.27;1;76;27
+Elburgo;Private room;75;1;8;44753;0.09;4;90;0
+Zarautz;Entire home/apt;117;2;146;45377;1.51;1;255;19
+Bernedo;Entire home/apt;506;2;105;45375;1.08;1;291;9
+Donostia-San Sebastian;Entire home/apt;175;2;68;45243;0.71;1;329;19
+Zarautz;Entire home/apt;140;2;134;45242;1.37;1;284;17
+Donostia-San Sebastian;Entire home/apt;154;2;334;45381;3.42;1;203;59
+Donostia-San Sebastian;Entire home/apt;268;2;61;43383;0.63;1;327;0
+Donostia-San Sebastian;Entire home/apt;82;3;126;45292;1.29;1;175;23
+Donostia-San Sebastian;Entire home/apt;233;2;93;45170;0.97;1;216;2
+Donostia-San Sebastian;Entire home/apt;161;1;162;45367;1.66;14;343;8
+Oiartzun;Shared room;25;2;40;45155;0.41;5;157;3
+Hondarribia;Entire home/apt;1300;2;40;45128;0.43;1;345;5
+Lasarte-Oria;Entire home/apt;252;2;33;45361;0.34;1;254;8
+Laukiz;Private room;311;1;9;42945;0.09;2;89;0
+Laukiz;Private room;400;2;4;43016;0.04;13;90;0
+Labastida;Entire home/apt;500;2;4;45123;0.07;1;0;1
+Vitoria-Gasteiz;Entire home/apt;90;2;214;45337;2.21;1;155;22
+Bilbao;Entire home/apt;183;3;267;45376;2.76;2;248;30
+Bilbao;Private room;18;90;6;43708;0.06;49;334;0
+Ea;Private room;86;3;22;44769;0.23;4;17;0
+Berango;Entire home/apt;152;2;129;45221;1.34;1;119;16
+Kortezubi;Private room;85;3;54;45162;0.56;2;284;2
+Mungai;Entire home/apt;85;2;138;45163;1.45;1;273;10
+Bilbao;Private room;16;90;4;45138;0.06;49;273;1
+Sopelana;Entire home/apt;138;4;17;44772;0.18;1;275;0
+Bakio;Entire home/apt;50;1;282;45367;3.00;1;216;55
+Kortezubi;Private room;80;3;47;45160;0.49;2;301;4
+Dima;Entire home/apt;270;7;108;45381;1.13;1;150;6
+Donostia-San Sebastian;Entire home/apt;157;2;92;45231;0.97;1;300;18
+Donostia-San Sebastian;Entire home/apt;156;1;101;45345;1.05;14;330;6
+Bilbao;Entire home/apt;92;2;269;45374;2.80;1;67;51
+Vitoria-Gasteiz;Entire home/apt;174;20;2;45228;0.02;6;90;1
+Donostia-San Sebastian;Private room;200;1;45;45159;0.48;1;59;9
+Donostia-San Sebastian;Private room;50;1;21;43631;0.22;4;0;0
+Donostia-San Sebastian;Shared room;50;1;112;45371;1.33;3;227;26
+Sukarrieta;Entire home/apt;105;3;37;45360;0.39;1;51;2
+Donostia-San Sebastian;Entire home/apt;177;1;187;45293;1.95;26;252;19
+Zigoitia;Entire home/apt;313;2;84;45375;0.90;1;296;10
+Donostia-San Sebastian;Entire home/apt;266;1;147;45372;1.53;26;213;19
+Bilbao;Private room;50;2;264;45143;2.75;2;58;2
+Irun;Entire home/apt;133;6;22;44800;0.23;1;251;0
+Oiartzun;Private room;26;2;118;45211;1.24;6;155;17
+Donostia-San Sebastian;Entire home/apt;436;2;42;45289;0.47;3;297;12
+Donostia-San Sebastian;Entire home/apt;139;2;1;44733;0.05;3;21;0
+Lapuebla de Labarca;Entire home/apt;179;1;57;45333;0.62;1;355;6
+Hondarribia;Entire home/apt;118;2;45;45271;0.48;1;144;8
+Mundaka;Entire home/apt;150;5;60;45268;0.64;2;231;2
+Donostia-San Sebastian;Private room;74;2;190;45382;2.02;2;91;45
+Donostia-San Sebastian;Entire home/apt;264;2;157;45374;1.69;1;231;58
+Donostia-San Sebastian;Entire home/apt;177;3;5;45154;0.05;1;79;3
+Bermeo;Entire home/apt;79;1;21;45244;0.62;9;187;14
+Mundaka;Entire home/apt;75;1;12;45171;0.13;9;206;3
+Donostia-San Sebastian;Private room;74;2;175;45382;1.87;2;99;39
+Zizurkil;Entire home/apt;180;2;77;45293;0.82;1;322;12
+Donostia-San Sebastian;Entire home/apt;138;2;85;45287;0.91;23;126;6
+Elantxobe;Entire home/apt;65;5;62;45197;0.66;1;124;5
+Donostia-San Sebastian;Entire home/apt;400;7;75;45178;0.79;1;79;14
+Donostia-San Sebastian;Entire home/apt;250;2;1;42575;0.01;1;358;0
+Bilbao;Entire home/apt;174;3;220;45372;2.31;2;280;33
+Urnieta;Entire home/apt;67;2;449;45376;4.77;1;140;40
+Donostia-San Sebastian;Entire home/apt;160;2;103;45319;1.15;17;83;19
+Bakio;Entire home/apt;117;4;39;45157;0.41;1;303;7
+Dima;Entire home/apt;350;2;27;45292;0.34;2;348;5
+Donostia-San Sebastian;Private room;45;2;185;45376;1.96;1;235;63
+Ispaster;Entire home/apt;221;3;164;45377;1.74;1;244;17
+Donostia-San Sebastian;Entire home/apt;52;32;45;45199;0.48;3;238;2
+Vitoria-Gasteiz;Entire home/apt;180;3;25;45169;0.27;3;54;9
+Donostia-San Sebastian;Private room;76;2;196;45333;2.06;2;135;33
+Elgoibar;Entire home/apt;140;2;17;45164;0.18;4;148;2
+Bilbao;Private room;100;2;241;44481;2.54;1;66;0
+Vitoria-Gasteiz;Private room;42;3;19;45161;0.21;6;26;2
+Elgoibar;Private room;49;2;26;45162;0.28;4;85;5
+Donostia-San Sebastian;Entire home/apt;300;31;0;;;1;233;0
+Hondarribia;Entire home/apt;133;2;86;45369;0.91;2;273;17
+Orio;Entire home/apt;150;1;10;44802;0.12;14;338;0
+Donostia-San Sebastian;Private room;79;2;244;45380;2.61;5;334;2
+Bilbao;Private room;17;30;8;44804;0.09;49;242;0
+Zarautz;Entire home/apt;224;1;38;45161;0.41;16;213;2
+Irun;Entire home/apt;90;5;54;45305;0.57;1;266;6
+Zarautz;Private room;40;3;249;45378;2.63;2;300;26
+Portugalete;Entire home/apt;90;2;35;45270;0.47;1;243;10
+Durango;Entire home/apt;140;2;16;45292;0.19;1;193;4
+Donostia-San Sebastian;Entire home/apt;127;3;194;45382;2.07;1;336;28
+Asparrena;Private room;63;2;0;;;5;0;0
+Asparrena;Private room;63;2;1;43337;0.01;5;0;0
+Asparrena;Private room;63;2;0;;;5;0;0
+Asparrena;Private room;68;2;1;43762;0.02;5;0;0
+Ea;Entire home/apt;72;2;264;45378;2.83;2;109;27
+Bilbao;Private room;60;1;124;45373;1.35;2;355;18
+Donostia-San Sebastian;Entire home/apt;132;28;33;43628;0.35;15;121;0
+Zumaia;Entire home/apt;85;2;138;45368;1.63;1;189;17
+Donostia-San Sebastian;Entire home/apt;159;3;92;45293;1.11;1;273;11
+Donostia-San Sebastian;Entire home/apt;360;2;169;45368;1.80;1;210;37
+Barrika;Entire home/apt;380;4;3;45115;0.03;1;41;1
+Iurreta;Entire home/apt;99;6;112;45362;1.19;2;155;10
+Donostia-San Sebastian;Private room;79;1;367;45357;3.89;4;138;53
+Irun;Entire home/apt;70;4;130;45348;1.38;1;76;17
+Donostia-San Sebastian;Entire home/apt;145;4;129;45243;1.37;1;355;13
+Bilbao;Hotel room;96;1;178;45375;1.98;6;354;58
+Zumaia;Entire home/apt;81;2;58;45242;0.62;1;289;11
+Vitoria-Gasteiz;Entire home/apt;125;2;29;45362;0.33;2;70;16
+Donostia-San Sebastian;Private room;69;2;251;45005;2.69;5;342;0
+Donostia-San Sebastian;Private room;69;2;295;45380;3.16;5;338;6
+Donostia-San Sebastian;Private room;69;2;279;45377;2.99;5;334;3
+Hondarribia;Entire home/apt;190;1;20;44878;0.21;27;168;0
+Donostia-San Sebastian;Entire home/apt;100;2;138;45199;1.47;1;44;16
+Amezketa;Entire home/apt;144;2;99;45340;1.05;1;219;9
+Bilbao;Private room;72;2;295;45350;3.14;4;61;35
+Bilbao;Private room;62;2;180;45242;1.91;4;15;13
+Bilbao;Private room;50;2;267;45347;2.84;4;48;34
+Elburgo;Private room;73;1;2;43688;0.03;4;87;0
+Donostia-San Sebastian;Entire home/apt;160;14;4;45159;0.12;1;50;1
+Bilbao;Entire home/apt;50;28;125;43798;1.33;1;263;0
+Bilbao;Private room;70;1;133;45380;1.42;2;346;21
+Hondarribia;Entire home/apt;109;1;66;45370;0.71;3;153;10
+Vitoria-Gasteiz;Entire home/apt;108;2;230;45344;2.46;1;303;29
+Bilbao;Entire home/apt;1000;2;64;45166;0.69;3;56;7
+Donostia-San Sebastian;Entire home/apt;237;1;186;45354;1.99;1;330;27
+Hondarribia;Entire home/apt;112;2;152;45381;1.63;1;224;16
+Donostia-San Sebastian;Private room;82;1;345;45269;3.68;4;161;44
+Donostia-San Sebastian;Private room;82;1;367;45347;3.90;4;147;50
+Bilbao;Entire home/apt;107;2;176;45233;1.88;2;156;20
+Vitoria-Gasteiz;Private room;100;1;5;45166;0.07;4;133;1
+Zarautz;Private room;40;3;217;45380;2.31;2;309;27
+Mutriku;Entire home/apt;270;5;4;44777;0.05;2;151;0
+Donostia-San Sebastian;Entire home/apt;410;4;23;45159;0.25;1;43;3
+Bilbao;Entire home/apt;137;1;591;45375;6.31;1;81;96
+Donostia-San Sebastian;Entire home/apt;239;2;113;45292;1.22;17;89;11
+Eskuernaga;Entire home/apt;250;2;8;45150;0.11;1;361;3
+Hondarribia;Entire home/apt;168;1;14;44758;0.15;27;150;0
+Ribera Alta;Entire home/apt;160;2;19;45269;0.20;2;312;2
+Sopuerta;Private room;40;2;12;44803;0.14;1;365;0
+Bilbao;Private room;49;2;323;45379;3.46;1;11;52
+Ribera Alta;Entire home/apt;135;2;13;45157;0.14;2;317;1
+Bilbao;Entire home/apt;1000;2;75;45156;0.81;3;56;3
+Donostia-San Sebastian;Entire home/apt;139;2;201;45354;2.15;1;203;40
+Bilbao;Private room;42;3;106;45382;1.13;1;46;61
+Vitoria-Gasteiz;Entire home/apt;111;1;246;45381;2.63;1;108;31
+Aia;Entire home/apt;100;6;0;;;1;335;0
+Donostia-San Sebastian;Entire home/apt;250;2;17;44743;0.18;1;94;0
+Donostia-San Sebastian;Entire home/apt;401;2;337;45368;3.67;2;212;48
+Donostia-San Sebastian;Entire home/apt;186;2;50;45360;0.54;1;169;25
+Gautegiz Arteaga;Hotel room;92;2;0;;;9;103;0
+Gautegiz Arteaga;Entire home/apt;126;4;0;;;9;73;0
+Donostia-San Sebastian;Private room;81;1;351;45347;3.76;4;181;47
+Zarautz;Entire home/apt;83;2;71;45270;0.77;1;92;5
+Donostia-San Sebastian;Entire home/apt;150;1;44;45049;0.47;31;184;1
+AbadiÒo;Entire home/apt;102;5;125;45292;1.34;1;257;11
+Bilbao;Private room;63;1;540;45380;5.80;2;177;93
+Karrantza Harana;Private room;119;1;0;;;7;267;0
+Karrantza Harana;Private room;131;1;0;;;7;261;0
+Karrantza Harana;Private room;131;5;1;42605;0.01;7;264;0
+Karrantza Harana;Private room;131;1;0;;;7;313;0
+Karrantza Harana;Private room;104;1;0;;;7;317;0
+Karrantza Harana;Private room;119;1;1;42606;0.01;7;267;0
+Karrantza Harana;Private room;104;1;1;44766;0.05;7;268;0
+Hondarribia;Entire home/apt;629;3;7;44774;0.09;1;314;0
+Donostia-San Sebastian;Entire home/apt;145;2;31;45381;0.33;1;163;16
+Bilbao;Entire home/apt;141;2;18;45078;0.19;1;215;1
+Donostia-San Sebastian;Private room;95;2;110;45242;1.18;3;89;18
+Getxo;Entire home/apt;179;1;72;45214;0.78;1;11;9
+Hernani;Entire home/apt;50;2;128;43773;1.38;1;2;0
+Donostia-San Sebastian;Entire home/apt;114;2;108;45333;1.28;1;299;20
+Lekeitio;Entire home/apt;130;2;110;45293;1.19;1;244;11
+Arrasate;Private room;30;1;335;45380;3.61;1;0;46
+Donostia-San Sebastian;Entire home/apt;171;2;116;45243;1.25;1;108;15
+Donostia-San Sebastian;Private room;95;2;109;45159;1.18;3;89;11
+Bilbao;Entire home/apt;67;2;1;42628;0.01;1;0;0
+Mutriku;Entire home/apt;100;3;14;44393;0.20;1;28;0
+Sondika;Entire home/apt;820;2;18;45293;0.24;8;356;4
+Donostia-San Sebastian;Entire home/apt;127;1;526;45377;5.74;3;88;102
+Donostia-San Sebastian;Entire home/apt;718;2;45;45292;0.49;1;302;6
+Donostia-San Sebastian;Entire home/apt;868;3;41;45163;0.45;4;269;3
+Otxandio;Entire home/apt;85;2;21;45310;0.23;1;31;2
+Donostia-San Sebastian;Entire home/apt;250;3;123;45197;1.44;1;67;12
+Plentzia;Entire home/apt;86;2;86;45267;0.93;1;56;11
+Karrantza Harana;Entire home/apt;317;2;21;45214;0.29;1;144;4
+Irun;Entire home/apt;133;1;173;45381;1.91;1;14;35
+Donostia-San Sebastian;Entire home/apt;250;1;16;43651;0.17;4;333;0
+Bilbao;Entire home/apt;82;2;155;45367;1.68;1;262;16
+Donostia-San Sebastian;Entire home/apt;356;2;99;45293;1.10;1;279;26
+Gorliz;Entire home/apt;90;3;12;44669;0.21;1;71;0
+Bilbao;Private room;250;1;1;43009;0.01;23;89;0
+Donostia-San Sebastian;Entire home/apt;100;4;29;43330;0.32;1;56;0
+Donostia-San Sebastian;Entire home/apt;179;4;52;45242;0.64;1;168;14
+Donostia-San Sebastian;Entire home/apt;322;1;136;44400;1.49;14;248;0
+Bermeo;Entire home/apt;77;1;5;45375;1.61;1;217;5
+Donostia-San Sebastian;Entire home/apt;218;1;99;45368;1.08;12;143;16
+Getxo;Private room;73;2;40;45373;0.49;2;251;8
+Bermeo;Entire home/apt;115;3;91;45214;1.00;2;328;10
+Bilbao;Entire home/apt;93;2;343;45362;3.74;1;44;40
+Donostia-San Sebastian;Private room;110;2;99;45242;1.10;3;89;20
+Bakio;Entire home/apt;141;2;111;45070;1.22;5;162;5
+Arraia-Maeztu;Entire home/apt;204;2;51;45292;0.59;1;310;9
+Vitoria-Gasteiz;Entire home/apt;73;2;133;45375;1.46;2;147;16
+Donostia-San Sebastian;Private room;28;30;23;45275;0.26;1;193;5
+Donostia-San Sebastian;Entire home/apt;180;2;30;45129;0.35;1;324;1
+Donostia-San Sebastian;Entire home/apt;136;4;76;45295;0.84;1;135;15
+Donostia-San Sebastian;Entire home/apt;237;2;240;45337;2.67;1;19;16
+Azpeitia;Private room;80;2;42;45332;0.46;6;332;2
+Donostia-San Sebastian;Entire home/apt;250;1;30;45104;0.36;87;257;2
+OÒati;Entire home/apt;180;1;56;45268;0.75;2;277;15
+Zarautz;Entire home/apt;221;2;106;45305;1.24;1;220;22
+Ayala;Private room;125;1;71;45361;0.84;3;177;11
+Donostia-San Sebastian;Entire home/apt;280;1;70;45368;0.80;24;132;11
+Donostia-San Sebastian;Entire home/apt;386;1;125;45292;1.40;24;80;25
+Donostia-San Sebastian;Entire home/apt;286;1;60;45354;0.70;24;143;14
+Donostia-San Sebastian;Entire home/apt;356;1;113;45347;1.25;24;74;21
+Lanciego;Entire home/apt;261;2;90;45375;0.99;1;342;9
+Donostia-San Sebastian;Entire home/apt;249;1;51;45293;0.56;24;219;16
+Donostia-San Sebastian;Entire home/apt;373;1;53;45135;0.75;24;126;10
+Plentzia;Entire home/apt;79;2;148;45360;1.63;1;81;25
+Lanciego;Private room;40;1;7;45020;0.22;2;356;1
+Donostia-San Sebastian;Entire home/apt;114;2;315;45377;3.66;3;194;44
+Ayala;Private room;100;1;64;45154;0.71;3;177;6
+Lanciego;Shared room;40;1;1;44489;0.03;2;356;0
+Zarautz;Entire home/apt;117;1;15;45115;0.17;1;338;1
+OÒati;Entire home/apt;150;1;4;45379;0.06;2;319;2
+Ispaster;Entire home/apt;77;2;269;45379;3.02;4;207;25
+Donostia-San Sebastian;Entire home/apt;160;2;228;45270;2.67;1;175;36
+Lekeitio;Entire home/apt;74;2;135;45359;1.50;1;35;14
+Donostia-San Sebastian;Entire home/apt;251;2;233;45382;2.58;1;244;34
+Berango;Entire home/apt;579;2;68;45293;0.89;1;275;11
+Mallabia;Entire home/apt;220;4;20;45164;0.24;1;304;2
+MaÒaria;Private room;55;2;124;45175;1.38;2;89;16
+Zarautz;Entire home/apt;94;2;292;45334;3.37;1;206;26
+Donostia-San Sebastian;Entire home/apt;141;1;90;45223;1.03;39;327;7
+Hondarribia;Entire home/apt;284;1;20;44799;0.24;39;164;0
+Hondarribia;Entire home/apt;250;5;21;45134;0.26;1;111;5
+Donostia-San Sebastian;Entire home/apt;104;2;132;45381;1.59;1;20;20
+Zarautz;Entire home/apt;139;1;26;45305;0.29;2;157;2
+Donostia-San Sebastian;Entire home/apt;288;2;121;45292;1.36;16;59;20
+Bilbao;Shared room;21;1;48;45317;0.57;5;322;22
+Donostia-San Sebastian;Private room;76;1;121;45346;1.35;4;242;23
+Donostia-San Sebastian;Entire home/apt;378;2;124;45216;1.40;4;230;12
+Donostia-San Sebastian;Entire home/apt;210;2;95;45173;1.16;1;160;11
+Zumaia;Entire home/apt;148;2;34;45216;0.39;1;99;1
+Zarautz;Entire home/apt;147;1;39;45353;0.44;2;172;8
+Donostia-San Sebastian;Entire home/apt;957;3;44;45256;0.50;4;242;7
+Ispaster;Entire home/apt;86;2;104;45359;1.23;1;230;47
+Bilbao;Private room;47;3;64;45368;0.73;2;96;37
+Donostia-San Sebastian;Entire home/apt;200;3;39;45181;0.44;1;55;18
+Eibar;Entire home/apt;150;2;58;45274;0.69;1;91;10
+Bilbao;Private room;41;1;439;45380;5.18;2;202;103
+Donostia-San Sebastian;Private room;76;1;150;45176;1.70;4;264;1
+Bilbao;Private room;53;1;145;45373;1.63;1;44;17
+Sopelana;Private room;46;1;458;45374;5.40;1;72;77
+Donostia-San Sebastian;Entire home/apt;85;32;77;43385;0.91;1;114;0
+Donostia-San Sebastian;Entire home/apt;186;2;136;45368;1.54;1;26;32
+Donostia-San Sebastian;Entire home/apt;151;2;393;45381;4.56;1;223;55
+Bilbao;Private room;71;1;278;45374;3.15;2;89;35
+Donostia-San Sebastian;Entire home/apt;166;2;23;45172;0.26;1;185;1
+Pasaia;Entire home/apt;159;2;18;45165;0.21;2;267;3
+Bilbao;Private room;30;3;108;45215;1.24;3;87;3
+Zumaia;Entire home/apt;180;3;69;45179;0.81;2;303;9
+Zarautz;Entire home/apt;130;2;101;45207;1.19;1;55;15
+Donostia-San Sebastian;Entire home/apt;248;2;221;45379;2.64;6;79;55
+Getxo;Entire home/apt;90;2;118;44928;1.39;1;30;0
+Donostia-San Sebastian;Entire home/apt;300;14;7;44786;0.09;12;31;0
+Zarautz;Entire home/apt;110;2;38;44781;0.44;14;98;0
+Mundaka;Entire home/apt;94;1;43;44671;0.51;2;236;0
+Bilbao;Private room;30;3;142;45219;1.63;3;86;2
+Donostia-San Sebastian;Entire home/apt;81;2;101;45379;1.18;1;137;31
+Bilbao;Private room;30;2;172;44865;1.99;3;86;0
+Hondarribia;Entire home/apt;133;2;95;45375;1.15;2;267;22
+Donostia-San Sebastian;Entire home/apt;260;31;1;42901;0.01;7;364;0
+Arrazua-Ubarrundia;Entire home/apt;154;7;72;45214;0.83;1;176;16
+Bilbao;Entire home/apt;175;2;232;45214;2.76;1;289;14
+Donostia-San Sebastian;Entire home/apt;149;1;70;45294;0.82;39;282;1
+Getxo;Private room;45;2;287;45382;3.33;1;14;59
+Lekeitio;Entire home/apt;130;3;34;45131;0.40;1;218;1
+Zarautz;Entire home/apt;106;2;35;45378;0.41;1;103;3
+Samaniego;Entire home/apt;597;2;11;45286;0.18;8;319;4
+Gorliz;Entire home/apt;110;2;151;45373;1.75;1;253;11
+Samaniego;Private room;75;1;5;45318;0.06;8;336;2
+Mutriku;Entire home/apt;220;3;65;45294;0.77;1;247;10
+Bilbao;Entire home/apt;137;3;73;45350;0.85;1;20;13
+Samaniego;Private room;87;1;1;45136;0.12;8;352;1
+Zarautz;Entire home/apt;229;3;125;45378;1.47;1;85;24
+Donostia-San Sebastian;Entire home/apt;110;30;13;43103;0.16;1;287;0
+Donostia-San Sebastian;Entire home/apt;252;2;288;45312;3.39;6;211;34
+Donostia-San Sebastian;Entire home/apt;119;2;334;45373;4.11;1;111;49
+Donostia-San Sebastian;Entire home/apt;252;2;301;45369;3.51;6;232;46
+Mundaka;Entire home/apt;151;2;14;45268;0.16;1;351;2
+Alonsotegi;Private room;95;1;104;45381;1.23;4;355;17
+Gorliz;Entire home/apt;180;2;35;45270;0.41;1;54;2
+Hondarribia;Private room;130;2;84;45347;0.99;1;63;10
+Lekeitio;Entire home/apt;71;2;68;45194;0.79;1;259;12
+Getxo;Entire home/apt;102;2;69;45376;0.81;1;88;3
+Berriatua;Entire home/apt;85;2;75;45295;0.88;1;281;6
+Gatika;Entire home/apt;814;4;23;45149;0.27;1;259;2
+Laguardia;Entire home/apt;307;2;12;45220;0.14;8;324;4
+Oiartzun;Entire home/apt;150;2;169;45214;1.97;1;96;26
+Donostia-San Sebastian;Entire home/apt;200;5;75;45170;0.92;1;60;9
+Vitoria-Gasteiz;Entire home/apt;136;2;102;45256;1.19;1;134;13
+Hondarribia;Entire home/apt;141;2;23;45152;0.29;19;133;8
+Donostia-San Sebastian;Entire home/apt;437;1;86;45376;1.01;24;112;16
+Hondarribia;Entire home/apt;80;2;160;45381;1.94;1;111;10
+Getxo;Entire home/apt;111;2;94;45357;1.10;1;68;10
+Laukiz;Private room;200;2;2;42856;0.02;13;89;0
+Asparrena;Private room;50;1;64;45319;0.75;1;357;12
+Laukiz;Private room;197;1;3;42969;0.04;13;90;0
+Bilbao;Private room;150;2;30;43296;0.35;1;175;0
+Zarautz;Entire home/apt;100;2;41;45261;0.48;2;85;6
+Bilbao;Entire home/apt;484;2;75;45340;0.88;1;263;10
+Bakio;Private room;76;1;74;45128;0.87;3;213;3
+Vitoria-Gasteiz;Entire home/apt;101;4;26;45270;0.37;1;78;11
+Astigarraga;Private room;300;3;69;43408;0.81;1;87;0
+Zarautz;Entire home/apt;166;1;44;45382;0.52;16;269;6
+Getaria;Entire home/apt;221;2;175;45206;2.06;1;332;16
+Bilbao;Entire home/apt;117;3;52;45269;0.61;1;43;19
+Mallabia;Entire home/apt;107;2;44;45263;0.54;1;165;2
+Zeanuri;Private room;80;2;55;45193;0.67;1;150;7
+Busturia;Entire home/apt;200;2;59;45189;0.70;1;319;9
+Bilbao;Private room;43;1;178;45372;2.10;2;37;24
+Vitoria-Gasteiz;Private room;27;2;30;45344;0.43;1;359;5
+Bilbao;Private room;40;1;448;45368;5.28;2;6;25
+Bakio;Private room;66;1;41;45212;0.49;3;221;2
+Bakio;Private room;86;1;17;45268;0.20;3;187;1
+Lekeitio;Entire home/apt;141;2;77;45145;0.91;2;91;1
+Donostia-San Sebastian;Entire home/apt;135;2;376;45367;4.44;2;123;65
+Donostia-San Sebastian;Entire home/apt;150;2;81;45292;0.96;1;60;20
+Bermeo;Entire home/apt;130;2;90;44822;1.08;1;235;0
+Ea;Entire home/apt;116;3;14;45214;0.17;2;256;6
+Oiartzun;Private room;21;2;118;45348;1.45;6;80;24
+Donostia-San Sebastian;Entire home/apt;120;2;177;45373;2.17;1;138;26
+Donostia-San Sebastian;Entire home/apt;134;7;79;45295;0.93;1;37;9
+Donostia-San Sebastian;Entire home/apt;115;2;211;45242;2.49;4;116;24
+Bilbao;Private room;47;1;506;45369;5.96;2;7;8
+Zarautz;Entire home/apt;120;3;86;45206;1.01;2;122;5
+Donostia-San Sebastian;Entire home/apt;143;1;110;45350;1.30;14;356;9
+San Millan;Entire home/apt;375;2;15;45172;0.28;3;330;4
+San Millan;Entire home/apt;130;2;22;45356;0.27;3;303;4
+San Millan;Entire home/apt;130;2;22;45180;0.27;3;0;4
+Bilbao;Entire home/apt;103;2;187;45375;2.20;2;291;25
+Bilbao;Entire home/apt;258;2;301;45368;3.62;21;169;49
+Vitoria-Gasteiz;Private room;64;1;14;45043;0.17;6;89;1
+Zumaia;Entire home/apt;150;2;68;45152;0.80;1;145;6
+Hondarribia;Entire home/apt;101;2;96;45297;1.17;1;142;13
+Donostia-San Sebastian;Entire home/apt;136;4;86;45277;1.01;1;104;4
+Donostia-San Sebastian;Entire home/apt;233;2;210;45292;2.52;1;205;38
+Sondika;Private room;233;2;11;43697;0.13;8;364;0
+Bilbao;Entire home/apt;343;1;22;44866;0.26;6;154;0
+Bilbao;Private room;45;2;214;45175;2.54;2;58;7
+Altzo;Entire home/apt;160;2;97;45292;1.19;1;170;16
+Vitoria-Gasteiz;Entire home/apt;100;2;36;45165;0.43;1;15;10
+Getxo;Entire home/apt;92;2;173;45292;2.05;7;63;30
+Beasain;Entire home/apt;160;2;48;45269;0.67;1;321;17
+Mutriku;Private room;150;2;15;44797;0.18;2;184;0
+Bilbao;Entire home/apt;102;31;40;45328;0.48;1;238;3
+Barakaldo;Entire home/apt;116;3;161;45199;1.92;1;98;4
+Ibarrangelu;Entire home/apt;120;4;17;44780;0.22;1;274;0
+Ibarrangelu;Entire home/apt;393;1;42;45325;0.59;2;226;5
+Hondarribia;Entire home/apt;174;1;32;45208;0.39;27;134;5
+Mundaka;Entire home/apt;140;2;28;45174;0.34;1;356;5
+Vitoria-Gasteiz;Entire home/apt;180;3;12;45166;0.15;3;48;6
+Mundaka;Entire home/apt;183;2;31;45032;0.37;4;321;2
+Abaltzisketa;Entire home/apt;100;5;6;44713;0.07;2;255;0
+Bilbao;Entire home/apt;95;2;271;45367;3.27;1;257;39
+Donostia-San Sebastian;Entire home/apt;135;1;87;45357;1.04;87;199;19
+Vitoria-Gasteiz;Private room;68;2;137;45295;1.63;1;87;9
+Donostia-San Sebastian;Hotel room;163;1;83;45375;0.99;87;158;13
+Zierbena;Entire home/apt;140;1;86;45347;1.17;1;147;5
+Bermeo;Entire home/apt;62;3;61;45213;0.73;1;338;2
